@@ -1,0 +1,8 @@
+.ik-abs-translate {
+  position: absolute;
+  z-index: 1;
+  top: -50%;
+  left: 0;
+  font-size: 0.7em;
+  color: red;
+}
